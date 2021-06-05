@@ -1,0 +1,1224 @@
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000000  || out=xxxxxxxx
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000001  || out=00000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 10: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000001  || out=00000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000010  || out=00000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 15: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000010  || out=00000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000011  || out=00000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 20: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000011  || out=00000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000100  || out=00000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 25: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000100  || out=00000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000101  || out=00000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 30: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000101  || out=00000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000110  || out=00000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 35: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000110  || out=00000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000111  || out=00000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 40: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000111  || out=00000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001000  || out=00001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 45: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001000  || out=00001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001001  || out=00001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 50: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001001  || out=00001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001010  || out=00001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 55: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001010  || out=00001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001011  || out=00001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 60: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001011  || out=00001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001100  || out=00001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 65: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001100  || out=00001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001101  || out=00001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 70: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001101  || out=00001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001110  || out=00001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 75: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001110  || out=00001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001111  || out=00001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 80: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001111  || out=00001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010000  || out=00011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 85: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010000  || out=00011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010001  || out=00011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 90: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010001  || out=00011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010010  || out=00011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 95: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010010  || out=00011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010011  || out=00011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 100: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010011  || out=00011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010100  || out=00011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 105: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010100  || out=00011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010101  || out=00011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 110: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010101  || out=00011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010110  || out=00011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 115: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010110  || out=00011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00010111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00010111  || out=00011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 120: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00010111  || out=00011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011000  || out=00010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 125: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011000  || out=00010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011001  || out=00010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 130: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011001  || out=00010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011010  || out=00010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 135: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011010  || out=00010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011011  || out=00010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 140: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011011  || out=00010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011100  || out=00010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 145: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011100  || out=00010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011101  || out=00010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 150: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011101  || out=00010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011110  || out=00010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 155: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011110  || out=00010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011111  || out=00010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 160: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011111  || out=00010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100000  || out=00110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 165: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100000  || out=00110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100001  || out=00110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 170: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100001  || out=00110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100010  || out=00110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 175: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100010  || out=00110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100011  || out=00110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 180: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100011  || out=00110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100100  || out=00110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 185: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100100  || out=00110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100101  || out=00110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 190: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100101  || out=00110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100110  || out=00110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 195: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100110  || out=00110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00100111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00100111  || out=00110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 200: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00100111  || out=00110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101000  || out=00111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 205: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101000  || out=00111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101001  || out=00111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 210: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101001  || out=00111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101010  || out=00111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 215: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101010  || out=00111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101011  || out=00111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 220: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101011  || out=00111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101100  || out=00111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 225: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101100  || out=00111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101101  || out=00111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 230: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101101  || out=00111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101110  || out=00111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 235: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101110  || out=00111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101111  || out=00111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 240: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101111  || out=00111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110000  || out=00101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 245: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110000  || out=00101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110001  || out=00101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 250: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110001  || out=00101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110010  || out=00101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 255: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110010  || out=00101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110011  || out=00101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 260: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110011  || out=00101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110100  || out=00101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 265: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110100  || out=00101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110101  || out=00101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 270: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110101  || out=00101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110110  || out=00101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 275: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110110  || out=00101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110111  || out=00101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 280: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110111  || out=00101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111000  || out=00100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 285: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111000  || out=00100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111001  || out=00100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 290: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111001  || out=00100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111010  || out=00100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 295: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111010  || out=00100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111011  || out=00100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 300: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111011  || out=00100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111100  || out=00100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 305: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111100  || out=00100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111101  || out=00100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 310: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111101  || out=00100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111110  || out=00100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 315: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111110  || out=00100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111111  || out=00100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 320: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111111  || out=00100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000000  || out=01100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 325: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000000  || out=01100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000001  || out=01100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 330: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000001  || out=01100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000010  || out=01100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 335: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000010  || out=01100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000011  || out=01100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 340: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000011  || out=01100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000100  || out=01100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 345: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000100  || out=01100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000101  || out=01100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 350: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000101  || out=01100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000110  || out=01100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 355: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000110  || out=01100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000111  || out=01100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 360: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000111  || out=01100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001000  || out=01101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 365: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001000  || out=01101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001001  || out=01101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 370: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001001  || out=01101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001010  || out=01101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 375: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001010  || out=01101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001011  || out=01101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 380: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001011  || out=01101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001100  || out=01101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 385: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001100  || out=01101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001101  || out=01101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 390: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001101  || out=01101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001110  || out=01101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 395: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001110  || out=01101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001111  || out=01101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 400: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001111  || out=01101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010000  || out=01111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 405: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010000  || out=01111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010001  || out=01111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 410: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010001  || out=01111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010010  || out=01111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 415: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010010  || out=01111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010011  || out=01111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 420: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010011  || out=01111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010100  || out=01111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 425: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010100  || out=01111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010101  || out=01111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 430: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010101  || out=01111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010110  || out=01111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 435: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010110  || out=01111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01010111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01010111  || out=01111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 440: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01010111  || out=01111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011000  || out=01110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 445: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011000  || out=01110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011001  || out=01110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 450: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011001  || out=01110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011010  || out=01110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 455: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011010  || out=01110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011011  || out=01110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 460: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011011  || out=01110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011100  || out=01110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 465: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011100  || out=01110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011101  || out=01110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 470: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011101  || out=01110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011110  || out=01110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 475: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011110  || out=01110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01011111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01011111  || out=01110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 480: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01011111  || out=01110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100000  || out=01010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 485: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100000  || out=01010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100001  || out=01010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 490: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100001  || out=01010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100010  || out=01010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 495: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100010  || out=01010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100011  || out=01010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 500: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100011  || out=01010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100100  || out=01010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 505: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100100  || out=01010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 510: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100101  || out=01010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 510: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100101  || out=01010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100110  || out=01010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 515: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100110  || out=01010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 520: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100111  || out=01010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 520: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100111  || out=01010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101000  || out=01011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 525: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101000  || out=01011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 530: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101001  || out=01011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 530: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101001  || out=01011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 535: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 535: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101010  || out=01011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 535: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101010  || out=01011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 540: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 540: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101011  || out=01011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 540: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101011  || out=01011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 545: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 545: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101100  || out=01011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 545: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101100  || out=01011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 550: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 550: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101101  || out=01011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 550: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101101  || out=01011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 555: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 555: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101110  || out=01011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 555: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101110  || out=01011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 560: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 560: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101111  || out=01011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 560: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101111  || out=01011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 565: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 565: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110000  || out=01001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 565: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110000  || out=01001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 570: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 570: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110001  || out=01001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 570: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110001  || out=01001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 575: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 575: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110010  || out=01001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 575: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110010  || out=01001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 580: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 580: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110011  || out=01001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 580: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110011  || out=01001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 585: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 585: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110100  || out=01001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 585: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110100  || out=01001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 590: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 590: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110101  || out=01001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 590: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110101  || out=01001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 595: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 595: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110110  || out=01001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 595: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110110  || out=01001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 600: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 600: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110111  || out=01001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 600: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110111  || out=01001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 605: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 605: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111000  || out=01000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 605: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111000  || out=01000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 610: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 610: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111001  || out=01000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 610: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111001  || out=01000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 615: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 615: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111010  || out=01000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 615: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111010  || out=01000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 620: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 620: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111011  || out=01000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 620: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111011  || out=01000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 625: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 625: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111100  || out=01000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 625: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111100  || out=01000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 630: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 630: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111101  || out=01000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 630: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111101  || out=01000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 635: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 635: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111110  || out=01000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 635: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111110  || out=01000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 640: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 640: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111111  || out=01000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 640: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111111  || out=01000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 645: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 645: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000000  || out=11000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 645: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000000  || out=11000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 650: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 650: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000001  || out=11000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 650: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000001  || out=11000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 655: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 655: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000010  || out=11000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 655: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000010  || out=11000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 660: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 660: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000011  || out=11000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 660: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000011  || out=11000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 665: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 665: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000100  || out=11000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 665: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000100  || out=11000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 670: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 670: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000101  || out=11000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 670: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000101  || out=11000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 675: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 675: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000110  || out=11000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 675: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000110  || out=11000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 680: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 680: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000111  || out=11000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 680: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000111  || out=11000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 685: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 685: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001000  || out=11001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 685: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001000  || out=11001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 690: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 690: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001001  || out=11001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 690: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001001  || out=11001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 695: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 695: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001010  || out=11001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 695: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001010  || out=11001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 700: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 700: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001011  || out=11001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 700: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001011  || out=11001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 705: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 705: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001100  || out=11001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 705: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001100  || out=11001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 710: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 710: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001101  || out=11001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 710: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001101  || out=11001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 715: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 715: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001110  || out=11001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 715: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001110  || out=11001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 720: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 720: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001111  || out=11001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 720: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001111  || out=11001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 725: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 725: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010000  || out=11011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 725: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010000  || out=11011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 730: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 730: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010001  || out=11011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 730: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010001  || out=11011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 735: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 735: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010010  || out=11011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 735: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010010  || out=11011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 740: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 740: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010011  || out=11011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 740: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010011  || out=11011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 745: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 745: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010100  || out=11011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 745: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010100  || out=11011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 750: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 750: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010101  || out=11011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 750: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010101  || out=11011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 755: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 755: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010110  || out=11011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 755: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010110  || out=11011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 760: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 760: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010111  || out=11011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 760: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010111  || out=11011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 765: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 765: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011000  || out=11010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 765: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011000  || out=11010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 770: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 770: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011001  || out=11010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 770: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011001  || out=11010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 775: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 775: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011010  || out=11010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 775: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011010  || out=11010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 780: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 780: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011011  || out=11010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 780: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011011  || out=11010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 785: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 785: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011100  || out=11010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 785: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011100  || out=11010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 790: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 790: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011101  || out=11010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 790: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011101  || out=11010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 795: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 795: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011110  || out=11010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 795: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011110  || out=11010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 800: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10011111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 800: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10011111  || out=11010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 800: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10011111  || out=11010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 805: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 805: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100000  || out=11110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 805: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100000  || out=11110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 810: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 810: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100001  || out=11110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 810: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100001  || out=11110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 815: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 815: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100010  || out=11110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 815: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100010  || out=11110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 820: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 820: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100011  || out=11110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 820: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100011  || out=11110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 825: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 825: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100100  || out=11110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 825: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100100  || out=11110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 830: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 830: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100101  || out=11110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 830: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100101  || out=11110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 835: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 835: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100110  || out=11110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 835: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100110  || out=11110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 840: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 840: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100111  || out=11110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 840: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100111  || out=11110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 845: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 845: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101000  || out=11111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 845: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101000  || out=11111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 850: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 850: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101001  || out=11111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 850: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101001  || out=11111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 855: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 855: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101010  || out=11111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 855: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101010  || out=11111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 860: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 860: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101011  || out=11111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 860: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101011  || out=11111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 865: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 865: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101100  || out=11111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 865: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101100  || out=11111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 870: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 870: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101101  || out=11111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 870: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101101  || out=11111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 875: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 875: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101110  || out=11111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 875: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101110  || out=11111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 880: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 880: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101111  || out=11111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 880: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101111  || out=11111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 885: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 885: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110000  || out=11101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 885: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110000  || out=11101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 890: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 890: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110001  || out=11101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 890: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110001  || out=11101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 895: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 895: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110010  || out=11101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 895: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110010  || out=11101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 900: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 900: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110011  || out=11101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 900: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110011  || out=11101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 905: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 905: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110100  || out=11101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 905: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110100  || out=11101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 910: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 910: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110101  || out=11101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 910: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110101  || out=11101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 915: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 915: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110110  || out=11101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 915: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110110  || out=11101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 920: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 920: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110111  || out=11101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 920: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110111  || out=11101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 925: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 925: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111000  || out=11100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 925: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111000  || out=11100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 930: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 930: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111001  || out=11100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 930: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111001  || out=11100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 935: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 935: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111010  || out=11100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 935: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111010  || out=11100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 940: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 940: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111011  || out=11100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 940: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111011  || out=11100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 945: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 945: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111100  || out=11100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 945: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111100  || out=11100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 950: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 950: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111101  || out=11100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 950: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111101  || out=11100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 955: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 955: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111110  || out=11100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 955: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111110  || out=11100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 960: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 960: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111111  || out=11100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 960: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111111  || out=11100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 965: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 965: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000000  || out=10100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 965: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000000  || out=10100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 970: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 970: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000001  || out=10100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 970: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000001  || out=10100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 975: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 975: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000010  || out=10100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 975: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000010  || out=10100011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 980: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 980: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000011  || out=10100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 980: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000011  || out=10100010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 985: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 985: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000100  || out=10100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 985: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000100  || out=10100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 990: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 990: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000101  || out=10100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 990: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000101  || out=10100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 995: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 995: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000110  || out=10100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 995: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000110  || out=10100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1000: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1000: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000111  || out=10100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1000: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000111  || out=10100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1005: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1005: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001000  || out=10101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1005: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001000  || out=10101100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1010: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1010: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001001  || out=10101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1010: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001001  || out=10101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1015: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1015: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001010  || out=10101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1015: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001010  || out=10101111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1020: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1020: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001011  || out=10101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1020: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001011  || out=10101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1025: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1025: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001100  || out=10101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1025: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001100  || out=10101010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1030: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1030: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001101  || out=10101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1030: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001101  || out=10101011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1035: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1035: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001110  || out=10101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1035: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001110  || out=10101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1040: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1040: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001111  || out=10101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1040: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001111  || out=10101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1045: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1045: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010000  || out=10111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1045: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010000  || out=10111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1050: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1050: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010001  || out=10111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1050: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010001  || out=10111001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1055: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1055: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010010  || out=10111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1055: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010010  || out=10111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1060: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1060: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010011  || out=10111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1060: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010011  || out=10111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1065: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1065: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010100  || out=10111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1065: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010100  || out=10111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1070: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1070: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010101  || out=10111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1070: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010101  || out=10111111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1075: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1075: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010110  || out=10111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1075: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010110  || out=10111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1080: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1080: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010111  || out=10111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1080: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010111  || out=10111100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1085: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1085: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011000  || out=10110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1085: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011000  || out=10110100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1090: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1090: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011001  || out=10110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1090: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011001  || out=10110101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1095: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1095: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011010  || out=10110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1095: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011010  || out=10110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011011  || out=10110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1100: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011011  || out=10110110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011100  || out=10110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1105: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011100  || out=10110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011101  || out=10110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1110: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011101  || out=10110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011110  || out=10110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1115: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011110  || out=10110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011111  || out=10110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1120: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011111  || out=10110000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100000  || out=10010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1125: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100000  || out=10010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100001  || out=10010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1130: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100001  || out=10010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100010  || out=10010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1135: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100010  || out=10010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100011  || out=10010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1140: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100011  || out=10010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100100  || out=10010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1145: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100100  || out=10010110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100101  || out=10010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1150: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100101  || out=10010111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100110  || out=10010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1155: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100110  || out=10010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100111  || out=10010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1160: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100111  || out=10010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101000  || out=10011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1165: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101000  || out=10011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101001  || out=10011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1170: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101001  || out=10011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101010  || out=10011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1175: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101010  || out=10011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101011  || out=10011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1180: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101011  || out=10011110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101100  || out=10011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1185: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101100  || out=10011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101101  || out=10011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1190: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101101  || out=10011011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101110  || out=10011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1195: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101110  || out=10011001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11101111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11101111  || out=10011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1200: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11101111  || out=10011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110000  || out=10001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1205: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110000  || out=10001000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110001  || out=10001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1210: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110001  || out=10001001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110010  || out=10001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1215: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110010  || out=10001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110011  || out=10001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1220: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110011  || out=10001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110100  || out=10001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1225: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110100  || out=10001110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110101  || out=10001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1230: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110101  || out=10001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110110  || out=10001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1235: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110110  || out=10001101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11110111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11110111  || out=10001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1240: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11110111  || out=10001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111000  || out=10000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1245: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111000  || out=10000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111001  || out=10000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1250: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111001  || out=10000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111010  || out=10000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1255: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111010  || out=10000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111011  || out=10000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1260: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111011  || out=10000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111100  || out=10000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1265: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111100  || out=10000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111101  || out=10000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1270: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111101  || out=10000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111110  || out=10000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1275: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111110  || out=10000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111111  || out=10000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1280: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111111  || out=10000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001110  || out=01101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1285: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001110  || out=01101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111011  || out=11100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1290: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111011  || out=11100110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010101  || out=11011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1295: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010101  || out=11011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11011100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11011100  || out=10110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1300: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11011100  || out=10110010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010000  || out=11011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1305: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010000  || out=11011000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10110001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10110001  || out=11101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1310: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10110001  || out=11101001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111111  || out=00100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1315: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111111  || out=00100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00111010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00111010  || out=00100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1320: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00111010  || out=00100111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100010  || out=11110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1325: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100010  || out=11110011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110111  || out=01001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1330: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110111  || out=01001100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111001  || out=11100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1335: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111001  || out=11100101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101000  || out=01011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1340: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101000  || out=01011100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000100  || out=11000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1345: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000100  || out=11000110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001101  || out=00001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1350: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001101  || out=00001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000011  || out=00000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1355: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000011  || out=00000010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01100110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01100110  || out=01010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1360: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01100110  || out=01010101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110110  || out=00101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1365: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110110  || out=00101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110011  || out=01001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1370: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110011  || out=01001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011101  || out=00010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1375: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011101  || out=00010011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00110100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00110100  || out=00101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1380: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00110100  || out=00101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10111000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10111000  || out=11100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1385: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10111000  || out=11100100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101001  || out=11111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1390: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101001  || out=11111101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000111  || out=00000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1395: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000111  || out=00000100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010010  || out=10111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1400: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010010  || out=10111011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00001010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00001010  || out=00001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1405: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00001010  || out=00001111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10101111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10101111  || out=11111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1410: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10101111  || out=11111000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11000001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11000001  || out=10100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1415: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11000001  || out=10100001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01000000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01000000  || out=01100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1420: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01000000  || out=01100000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101100  || out=00111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1425: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101100  || out=00111010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10000101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10000101  || out=11000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1430: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10000101  || out=11000111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01001011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01001011  || out=01101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1435: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01001011  || out=01101110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01111110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01111110  || out=01000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1440: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01111110  || out=01000001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011110  || out=00010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1445: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011110  || out=00010001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00101011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00101011  || out=00111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1450: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00101011  || out=00111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100101  || out=11110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1455: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100101  || out=11110111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10001100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10001100  || out=11001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1460: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10001100  || out=11001010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100000  || out=10010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1465: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100000  || out=10010000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10100001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10100001  || out=11110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1470: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10100001  || out=11110001
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001111  || out=10101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1475: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001111  || out=10101000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01101010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01101010  || out=01011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1480: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01101010  || out=01011111
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=01110010 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=01110010  || out=01001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1485: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=01110010  || out=01001011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100111 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100111  || out=10010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1490: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100111  || out=10010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11001001 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11001001  || out=10101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1495: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11001001  || out=10101101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00011000 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00011000  || out=00010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1500: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00011000  || out=00010100
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1505: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11010100 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11010100  || out=10111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1505: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11010100  || out=10111110
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1510: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11111101 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1510: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11111101  || out=10000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1510: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11111101  || out=10000011
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1515: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010011  || out=11011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1515: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010011  || out=11011010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1520: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=10010110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1520: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=10010110  || out=11011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1520: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=10010110  || out=11011101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1525: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=00000110 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=00000110  || out=00000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1525: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=00000110  || out=00000101
+UVM_INFO /home/runner/bintogray_scoreboard.sv(48) @ 1530: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in=11100011 
+UVM_INFO /home/runner/bintogray_scoreboard.sv(69) @ 1530: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in=11100011  || out=10010010
+UVM_INFO /home/runner/bintogray_scoreboard.sv(86) @ 1530: uvm_test_top.env_h.scoreboard_h [
+ [PASS ] in=11100011  || out=10010010
+UVM_INFO /home/runner/bintogray_coverage.sv(51) @ 1540: uvm_test_top.env_h.coverage_h [bintogray_coverage] Coverage is 100.000000
+UVM_INFO /home/runner/bintogray_scoreboard.sv(105) @ 1540: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 305 vectors ran, 305 vectors passed ***
